@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="F6EA2F08-F808-4529-8DBA-0AEDB5AAFB17" version="0">
+	<info>
+		<title>වරුණ නිශාන්ත</title>
+		<description/>
+	</info>
+	<files index="id22" thumbnail="id18" totalSize="2695032">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-6982b76fd330f3cb1c3e9055fa8b22a46852ed75.png</file>
+		<file id="id11">data/images/img-7c7c36479ad2ded645019b24e91ddf65ed675bc7.png</file>
+		<file id="id12">data/images/img-83317e95fb829e58d0ec90155ae12ab892b38031.jpg</file>
+		<file id="id13">data/images/img-a7db7f6a0eb666e026f768a290ec49413f09a790.png</file>
+		<file id="id14">data/images/img-ba6eb2c47ff248276d899da87883034ab6f1bde6.png</file>
+		<file id="id15">data/images/img-e469230afc939ff828fe5dfb18691afbcf2e687a.png</file>
+		<file id="id16">data/ismplayer/app_store2x.png</file>
+		<file id="id17">data/ismplayer/play.svg</file>
+		<file id="id18">data/ismplayer/preview.png</file>
+		<file id="id19">data/ismplayer/style.css</file>
+		<file id="id20">data/ismplayer/style_mini.css</file>
+		<file id="id21">data/player.js</file>
+		<file id="id22">index.html</file>
+		<file id="id23">ismplayer.html</file>
+		<file id="id24">preview.png</file>
+	</files>
+</presentation>
+
